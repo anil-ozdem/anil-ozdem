@@ -2,7 +2,6 @@
 👀 I’m interested in Java, Test Automation, and Web Development
 🌱 I’m currently learning Full Stack Automation Engineering and exploring JUnit and Selenium for test automation
 💞️ I’m looking to collaborate on projects that involve Automation, Java, and Web Development
-😄 Pronouns: He/Him
 ⚡ Fun fact: I’m passionate about turning problems into solutions through code, and I believe every bug is an opportunity to grow!
 
 <!---
